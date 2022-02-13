@@ -1,2 +1,2 @@
 # WooDocs
-Suggestion to make developer focussed documentation of Woocommerce better and more useful
+Suggestions to make developer focussed documentation of Woocommerce better and more useful.
