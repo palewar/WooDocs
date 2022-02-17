@@ -1,6 +1,6 @@
-# How to improve Woocommerce Documentation for Developers
+# Improving Woocommerce Documentation for Developers
 
-Issues with state of Developer Documentaion right now:
+Issues with Developer Documentaion right now:
 
 1. **Can't Contribute**
 2. **Structure**
